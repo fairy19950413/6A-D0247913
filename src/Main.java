@@ -8,6 +8,8 @@ public class Main {
 		p.print();
 		p.addQuestion(new Question("Q2"));
 		p.print();
+		p.addQuestion(new Question("Q3"));
+		p.print();
 	}
 
 }
