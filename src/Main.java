@@ -6,6 +6,8 @@ public class Main {
 		Paper p = new Paper();
 		p.addQuestion(new Question("Q1"));
 		p.print();
+		p.addQuestion(new Question("Q2"));
+		p.print();
 	}
 
 }
